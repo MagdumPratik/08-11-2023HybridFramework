@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T07:44:07 IST" name="Suite" finished-at="2023-11-08T07:44:43 IST" duration-ms="35906">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T07:44:07 IST" name="Test" finished-at="2023-11-08T07:44:43 IST" duration-ms="35906">
+      <class name="TestCases.TC_01_LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.TC_01_LoginTest@27462a88]" started-at="2023-11-08T07:44:07 IST" name="setUp" finished-at="2023-11-08T07:44:20 IST" duration-ms="12549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:TestCases.TC_01_LoginTest@27462a88]" started-at="2023-11-08T07:44:20 IST" name="loginTest" finished-at="2023-11-08T07:44:42 IST" duration-ms="21936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:TestCases.TC_01_LoginTest@27462a88]" started-at="2023-11-08T07:44:42 IST" name="tearUp" finished-at="2023-11-08T07:44:43 IST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- TestCases.TC_01_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
